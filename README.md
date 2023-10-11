@@ -2,11 +2,11 @@
 In this lab, you will become familiar with GitHub as well as the importance of it.
 
 # Submission Information
-- **Name: Dylan R Williams
-- **Course: CSCI 232, section 01, Data Structures and Algorythms
-- **Due: TBA
-- **GitHub: Here is my [GitHub](https://github.com/DylanLight55) page.
-- **Favorites: My favriote anime:
+- **Name:** Dylan R Williams
+- **Course:** CSCI 232, section 01, Data Structures and Algorythms
+- **Due:** TBA
+- **GitHub:** Here is my [GitHub](https://github.com/DylanLight55) page.
+- **Favorites:** My favriote anime:
 1. Naruto
 2. Mushishi
 3. 86
