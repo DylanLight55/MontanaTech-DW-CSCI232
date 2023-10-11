@@ -1,0 +1,9 @@
+/Not-Important/
+
+/SEMI-Important/*.py
+
+/Important/.vs/
+
+/Important/Important.vcxproj.filters
+
+/Important/Important.vcxproj.users
